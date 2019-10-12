@@ -1,0 +1,28 @@
+Per eseguire il codice android:
+
+    Scarica la libreria AndroidCapture for Processing
+
+    https://github.com/onlylemi/processing-android-capture
+    e seguire quello che dice in Installation.
+
+
+
+
+Per eseguire il codice joystick
+
+    Scarica la libreria Game Control Plus
+
+
+
+Per eseguire il codice receiver (comando vocale)
+
+   http://florianschulz.info/stt/
+
+    Scarica la libreria Websockets;
+
+    run del file receiver.pde
+
+    apri da google chrome la pagine http://localhost:1337/sender.html
+    (bisogna avere "voice search" come estensione di google chrome)
+
+    nella riga di comando di processing dovrebbe apparire quello che dici

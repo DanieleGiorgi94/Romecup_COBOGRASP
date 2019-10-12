@@ -1,0 +1,10 @@
+COBOGRASP controller
+objx	moves sphere along x	3	SLIDER	x	0	1.0	0.0
+objy	moves sphere along y	3	SLIDER	rz	0	1.0	0.0
+objz_h	moves sphere along z or hand plan	2	HAT	cooliehat: pov	0	1.0	0.0
+handx	moves hand along x	3	SLIDER	y	0	1.0	0.0
+handy	moves hand along z	3	SLIDER	rz	0	1.0	0.0
+grasp	grasps obj	1	BUTTON	Trigger	0	0.0	0.0
+release	releases obj	1	BUTTON	Thumb 2	0	0.0	0.0
+hit	simulates hit	1	BUTTON	Base	0	0.0	0.0
+sw	switch button	1	BUTTON	Top	0	0.0	0.0
